@@ -21,4 +21,8 @@ This repository contains **commands and configurations** to set up a **Kubernete
 =======
 
 # dual-stack_Kubernetes_cluste_project
+<<<<<<< HEAD
 >>>>>>> ecb9683 (first commit)
+=======
+# dual-stack_Kubernetes_cluste_project
+>>>>>>> 3a12c9d (first commit)
