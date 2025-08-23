@@ -1,0 +1,4 @@
+192.168.122.20 kubemaster.lab.example.com kubemaster
+192.168.122.21 kubeworker1.lab.example.com kubeworker1
+192.168.122.22 kubeworker2.lab.example.com kubeworker2
+
