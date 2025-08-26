@@ -17,3 +17,8 @@ This repository contains **commands and configurations** to set up a **Kubernete
 - `fix-ipv6/` → IPv6 configuration commands
 - `firewall/` → Firewall commands
 - `busybox-ping-test.md` → Commands to test IPv6 connectivity
+<<<<<<< HEAD
+=======
+
+# dual-stack_Kubernetes_cluste_project
+>>>>>>> ecb9683 (first commit)

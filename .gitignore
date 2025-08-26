@@ -1,0 +1,10 @@
+# OS files
+*.swp
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Kubernetes local config
+/home/rakesh/.kube/config
